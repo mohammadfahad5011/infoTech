@@ -1,0 +1,84 @@
+[
+  {
+    "projects": [
+      {
+        "title": "Project title 3 updated",
+        "description": "A full-featured e-commerce platform with cart, checkout, and payment integration.",
+        "img_url": "https://placehold.co/600x400",
+        "technologies": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "TEST"
+        ],
+        "link": "https://www.demo.com/",
+        "id": 1741590568998
+      },
+      {
+        "title": "Aperiam aut magna silam 65y56y56",
+        "description": "Rem qui aut qui esse",
+        "img_url": "Ipsam fuga Necessit",
+        "technologies": [
+          "Nostrum beatae numqu"
+        ],
+        "link": "Atque et iusto est ",
+        "id": 1741768893534
+      },
+      {
+        "title": "Project title 3 updated",
+        "description": "A full-featured e-commerce platform with cart, checkout, and payment integration.",
+        "img_url": "https://placehold.co/600x400",
+        "technologies": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "TEST"
+        ],
+        "link": "https://www.demo.com/",
+        "id": 1742118053161
+      }
+    ]
+  },
+  {
+    "testimonials": [
+      {
+        "name": "Danielle Martinez",
+        "designation": "Qui voluptate conseq",
+        "author_img": "Eius repudiandae par",
+        "quote": "Consequatur Veritat",
+        "id": 1741860523199
+      },
+      {
+        "name": "Eve Rich",
+        "designation": "Aut non nulla conseq",
+        "author_img": "Molestiae sequi volu",
+        "quote": "Ut nesciunt nemo ut",
+        "id": 1741860527151
+      }
+    ]
+  },
+  {
+    "team": [
+      {
+        "name": "Jesse James",
+        "designation": "Voluptates eiusmod s",
+        "details": "Deserunt quis velit",
+        "member_img": "Aute iusto commodi d",
+        "linkedin_link": "Cum omnis in labore ",
+        "github_link": "Quod sit est eos a",
+        "twitter_link": "In sint aute placeat",
+        "id": 1741860545628
+      },
+      {
+        "name": "Ignacia Horne",
+        "designation": "Ullamco quia consequ",
+        "details": "Commodo architecto p",
+        "member_img": "In minus sunt moles",
+        "linkedin_link": "Accusamus consequatu",
+        "github_link": "Dolore autem et illu",
+        "twitter_link": "Nihil laborum Conse",
+        "id": 1741860550076
+      }
+    ]
+  }
+]
