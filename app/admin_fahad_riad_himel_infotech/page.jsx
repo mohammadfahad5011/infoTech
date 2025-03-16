@@ -571,7 +571,7 @@ export default function AdminLayout() {
     fetchData();
   }, []);
 
-  const apiUrl = "https://info-tech-rho.vercel.app/";
+  const apiUrl = "https://info-tech-rho.vercel.app/api";
 
   console.log("=====apiUrl====", apiUrl);
 
